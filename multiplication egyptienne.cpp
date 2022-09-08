@@ -1,5 +1,11 @@
  #include <math.h> 
  #include <stdlib.h>
+ 
+ 
+ ////////// CHANGED
+ 
+ 
+ 
  int i,n,a,b,c;
 int main() {
 	start:
